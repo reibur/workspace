@@ -5,7 +5,7 @@ def add(x, y):
 
 def substract(x, y):
     """"Suvstract function"""
-    return x - y
+    pass
 
 
 def multiply(x, y):
